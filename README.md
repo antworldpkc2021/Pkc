@@ -1,4 +1,4 @@
-Pkc - Batch Scheduling System
+Pkc
 ==============================
 
 [![Build Status](https://travis-ci.org/Yelp/Pkc.svg?branch=master)](https://travis-ci.org/Yelp/Pkc)
