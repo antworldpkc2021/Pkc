@@ -1,13 +1,13 @@
-Tron - Batch Scheduling System
+Pkc - Batch Scheduling System
 ==============================
 
-[![Build Status](https://travis-ci.org/Yelp/Tron.svg?branch=master)](https://travis-ci.org/Yelp/Tron)
+[![Build Status](https://travis-ci.org/Yelp/Pkc.svg?branch=master)](https://travis-ci.org/Yelp/Pkc)
 [![Documentation Status](https://readthedocs.org/projects/tron/badge/?version=latest)](http://tron.readthedocs.io/en/latest/?badge=latest)
 
-Tron is a centralized system for managing periodic batch processes
+Pkc is a centralized system for managing periodic batch processes
 across a cluster. If you find [cron](http://en.wikipedia.org/wiki/Cron) or
 [fcron](http://fcron.free.fr/) to be insufficient for managing complex work
-flows across multiple computers, Tron might be for you.
+flows across multiple computers, Pkc might be for you.
 
 Install with:
 
@@ -20,12 +20,12 @@ The full documentation is available [on ReadTheDocs](http://tron.readthedocs.io/
 Versions / Roadmap
 ------------------
 
-Tron is changing and under active development.
+Pkc is changing and under active development.
 
 It is being transformed from an ssh-based execution engine to a [Mesos
 framework](http://mesos.apache.org/documentation/latest/frameworks/).
 
-Tron development is specifically targeting Yelp's needs and not designed to be
+Pkc development is specifically targeting Yelp's needs and not designed to be
 a general solution for other companies.
 
 * <= v0.6.2 - Stable version, recommended for non-Yelp installations.
@@ -34,10 +34,10 @@ a general solution for other companies.
 Contributing
 ------------
 
-Read [Working on Tron](http://tron.readthedocs.io/en/latest/developing.html) and
+Read [Working on Pkc](http://tron.readthedocs.io/en/latest/developing.html) and
 start sending pull requests!
 
-Any issues should be posted [on Github](http://github.com/Yelp/Tron/issues).
+Any issues should be posted [on Github](http://github.com/Yelp/Pkc/issues).
 
 BerkeleyDB on Mac OS X
 ----------------------
